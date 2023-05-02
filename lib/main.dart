@@ -7,7 +7,7 @@ void main() {
     home: Scaffold(
       body: SafeArea(
           child: WebView(
-            initialUrl: "https://app.dmkengwing.in/",
+            initialUrl: "https://redmindtech.github.io/Dmk-MobileApp/",
             javascriptMode: JavascriptMode.unrestricted,
           ),
       ),
